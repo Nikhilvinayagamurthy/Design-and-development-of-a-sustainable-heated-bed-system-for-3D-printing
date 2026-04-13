@@ -86,8 +86,8 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 
 ### 🎬 Simulation Videos
 
-> 📹 **[Center Bed Heating Simulation Video](https://drive.google.com/file/d/17nfuhDi8q5KBFTc4tMstnj3G_T9JQ2PG/view?usp=sharing)** ← *(Replace with Google Drive link)*
-> 📹 **[Full Bed Heating Simulation Video](https://drive.google.com/file/d/1hvdnFKVsfraz4R3TLSu21DAScEUra7aI/view?usp=sharing)** ← *(Replace with Google Drive link)*
+> 📹 **[Center Bed Heating Simulation Video](https://drive.google.com/file/d/1hvdnFKVsfraz4R3TLSu21DAScEUra7aI/view?usp=sharing)** ← *(Replace with Google Drive link)*
+> 📹 **[Full Bed Heating Simulation Video](https://drive.google.com/file/d/17nfuhDi8q5KBFTc4tMstnj3G_T9JQ2PG/view?usp=sharing)** ← *(Replace with Google Drive link)*
 
 ---
 
