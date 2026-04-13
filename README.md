@@ -127,11 +127,6 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 
 ## Tools & Skills
 
-![Arduino](https://img.shields.io/badge/Arduino-Control_Electronics-00979D?style=flat-square&logo=arduino)
-![ANSYS](https://img.shields.io/badge/ANSYS-Thermal_Simulation-FFB71B?style=flat-square)
-![Additive Manufacturing](https://img.shields.io/badge/FDM-Additive_Manufacturing-orange?style=flat-square)
-![Python](https://img.shields.io/badge/C++-Arduino_Sketch-blue?style=flat-square)
-
 - ANSYS Workbench (thermal simulation & heat distribution analysis)
 - Arduino IDE (temperature monitoring firmware)
 - FDM 3D printing & additive manufacturing
