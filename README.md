@@ -1,4 +1,4 @@
-# 🔥 Energy-Efficient Heated Bed System for FDM 3D Printing
+# Energy-Efficient Heated Bed System for FDM 3D Printing
 
 > **Interdisciplinary Engineering Project | TU Clausthal | WiSe 2024/2025**
 > Master Program: Intelligent Manufacturing
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Designed and developed an **energy-efficient modular heated bed system** for FDM 3D printers as part of the Interdisciplinary Engineering Project at TU Clausthal. The project aimed to address recurring problems in university lab 3D printing environments including warping, poor bed adhesion, and high energy waste by designing a smarter, zone-controlled heating solution.
 
@@ -14,7 +14,7 @@ The system achieved a **stable bed temperature of ~70°C** within approximately 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Improve **temperature uniformity** across the print bed
 - Reduce **energy consumption** by activating only the zones needed
@@ -23,7 +23,7 @@ The system achieved a **stable bed temperature of ~70°C** within approximately 
 
 ---
 
-## 🔧 System Design
+## System Design
 
 ### Heated Bed Construction
 
@@ -55,15 +55,15 @@ The system achieved a **stable bed temperature of ~70°C** within approximately 
 The full wiring diagram including MOSFET switching circuit, thermistor connections,
 and Arduino Mega pinout is available here:
 
-📐 **[View Circuit Schematic](heating-bed-schematic.pdf.pdf)**
+ **[View Circuit Schematic](heating-bed-schematic.pdf.pdf)**
 
 ---
 
-## 💻 Arduino Code
+## Arduino Code
 
 The temperature monitoring system uses **5 NTC thermistors** with the **Beta parameter formula** for accurate Kelvin-to-Celsius conversion.
 
-📄 **[View Arduino Sketch](final__5_thermisters.ino)**
+ **[View Arduino Sketch](final__5_thermisters.ino)**
 
 ### How it works:
 - Thermistors connected to analog pins A2–A6
@@ -79,7 +79,7 @@ temperature -= 273.15; // Convert Kelvin to Celsius
 
 ---
 
-## 🖥️ Thermal Simulation (ANSYS Workbench)
+## Thermal Simulation (ANSYS Workbench)
 
 Thermal simulations were performed in **ANSYS Workbench** to analyse heat distribution and optimise heater placement before building the prototype.
 
@@ -93,8 +93,6 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 
 ### 🎬 Simulation Videos
 
-### 🎬 Simulation Videos
-
 > 📹 **[ANSYS Full Workflow — Component Build to Simulation](https://drive.google.com/file/d/1stiAddSQaEt7PTqDaMmkmdEeGVIb2Y99/view?usp=sharing)**
 
 > 📹 **[Center Bed Heating Simulation](https://drive.google.com/file/d/1hvdnFKVsfraz4R3TLSu21DAScEUra7aI/view?usp=sharing)**
@@ -102,7 +100,7 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 > 📹 **[Full Bed Heating Simulation](https://drive.google.com/file/d/17nfuhDi8q5KBFTc4tMstnj3G_T9JQ2PG/view?usp=sharing)**
 ---
 
-## 🔬 Prototype & Results
+## Prototype & Results
 
 ![Prototype Heated Bed with Temperature Monitoring](prototype-heated-bed.png)
 *Working prototype with Arduino-based temperature monitoring. Five thermistors measure temperature distribution across the bed.*
@@ -117,7 +115,7 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 
 ---
 
-## 🔑 Key Functions Implemented
+## Key Functions Implemented
 
 1. **Temperature Uniformity** — Even heat distribution across the print surface
 2. **Bed Temperature Maintenance** — Stable temperature control during printing
@@ -127,7 +125,7 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 
 ---
 
-## 📊 Tools & Skills
+## Tools & Skills
 
 ![Arduino](https://img.shields.io/badge/Arduino-Control_Electronics-00979D?style=flat-square&logo=arduino)
 ![ANSYS](https://img.shields.io/badge/ANSYS-Thermal_Simulation-FFB71B?style=flat-square)
@@ -142,7 +140,7 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 
 ---
 
-## 🏫 Affiliation
+## Affiliation
 
 **Technische Universität Clausthal**
 Master Program — Intelligent Manufacturing
