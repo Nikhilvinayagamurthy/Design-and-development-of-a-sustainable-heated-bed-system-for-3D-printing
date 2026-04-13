@@ -81,7 +81,7 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 *Localized heating of the center region — energy-efficient for small parts*
 
 ### Full Bed Heating — Large Part Printing
-![Full Bed Heating Simulation](Full_Bed_Heating_Simulation__Large_Part_Printing_.png)
+![Full Bed Heating Simulation](full-bed-simulation.png)
 *All zones active — uniform heat distribution across the entire bed*
 
 ### 🎬 Simulation Videos
