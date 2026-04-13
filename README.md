@@ -50,6 +50,13 @@ The system achieved a **stable bed temperature of ~70°C** within approximately 
 - Resistors, capacitors, push-button controls, and breadboard circuitry
 - Temperature readings logged every **5 seconds** via Serial monitor
 
+### Circuit Schematic
+
+The full wiring diagram including MOSFET switching circuit, thermistor connections,
+and Arduino Mega pinout is available here:
+
+📐 **[View Circuit Schematic](heating-bed-schematic.pdf)**
+
 ---
 
 ## 💻 Arduino Code
@@ -128,22 +135,6 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 - FDM 3D printing & additive manufacturing
 - Modular electronics design (MOSFET, thermistors, breadboard)
 - Design thinking & iterative prototyping
-
----
-
-## 📁 Repository Structure
-
-```
-3d-printer-heated-bed-system/
-│
-├── Center_Bed_Heating_Simulation__Small_Part_Printing_.png
-├── Full_Bed_Heating_Simulation__Large_Part_Printing_.png
-├── Prototype_Heated_Bed_with_Temperature_Monitoring_System.png
-├── final__5_thermisters.ino   ← Arduino temperature monitoring code
-├── LICENSE
-├── .gitignore
-└── README.md
-```
 
 ---
 
