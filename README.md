@@ -93,6 +93,7 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 
 ### 🎬 Simulation Videos
 
+> 📹 **[ANSYS Full Workflow — Component Build to Simulation](https://drive.google.com/file/d/1stiAddSQaEt7PTqDaMmkmdEeGVIb2Y99/view?usp=sharing)**
 > 📹 **[Center Bed Heating Simulation Video](https://drive.google.com/file/d/1hvdnFKVsfraz4R3TLSu21DAScEUra7aI/view?usp=sharing)** 
 > 📹 **[Full Bed Heating Simulation Video](https://drive.google.com/file/d/17nfuhDi8q5KBFTc4tMstnj3G_T9JQ2PG/view?usp=sharing)** 
 
