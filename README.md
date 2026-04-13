@@ -2,13 +2,13 @@
 
 > **Interdisciplinary Engineering Project | TU Clausthal | WiSe 2024/2025**
 > Master Program: Intelligent Manufacturing
-> Team (Group B7 — Avant Garde): Nikhil Vinayagamurthy, Ashwanth Kumar C R, Dilip Jadhav N R, Hithesh Alen D Costa
+> Team (Group B7): Nikhil Vinayagamurthy, Ashwanth Kumar C R, Dilip Jadhav N R, Hithesh Alen D Costa
 
 ---
 
 ## 📌 Project Overview
 
-Designed and developed an **energy-efficient modular heated bed system** for FDM 3D printers as part of the Interdisciplinary Engineering Project at TU Clausthal. The project aimed to address recurring problems in university lab 3D printing environments — including warping, poor bed adhesion, and high energy waste — by designing a smarter, zone-controlled heating solution.
+Designed and developed an **energy-efficient modular heated bed system** for FDM 3D printers as part of the Interdisciplinary Engineering Project at TU Clausthal. The project aimed to address recurring problems in university lab 3D printing environments including warping, poor bed adhesion, and high energy waste by designing a smarter, zone-controlled heating solution.
 
 The system achieved a **stable bed temperature of ~70°C** within approximately **8 minutes**, making it suitable for common FDM materials such as **PETG and TPU**.
 
