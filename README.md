@@ -93,7 +93,7 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 
 ## 🔬 Prototype & Results
 
-![Prototype Heated Bed with Temperature Monitoring]()
+![Prototype Heated Bed with Temperature Monitoring](prototype-heated-bed.png)
 *Working prototype with Arduino-based temperature monitoring. Five thermistors measure temperature distribution across the bed.*
 
 ### Key Results
