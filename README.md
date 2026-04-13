@@ -55,7 +55,7 @@ The system achieved a **stable bed temperature of ~70°C** within approximately 
 The full wiring diagram including MOSFET switching circuit, thermistor connections,
 and Arduino Mega pinout is available here:
 
-📐 **[View Circuit Schematic](heating-bed-schematic.pdf)**
+📐 **[View Circuit Schematic](heating-bed-schematic.pdf.pdf)**
 
 ---
 
