@@ -86,14 +86,14 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 
 ### 🎬 Simulation Videos
 
-> 📹 **[Center Bed Heating Simulation Video](https://drive.google.com/file/d/1hvdnFKVsfraz4R3TLSu21DAScEUra7aI/view?usp=sharing)** ← *(Replace with Google Drive link)*
-> 📹 **[Full Bed Heating Simulation Video](https://drive.google.com/file/d/17nfuhDi8q5KBFTc4tMstnj3G_T9JQ2PG/view?usp=sharing)** ← *(Replace with Google Drive link)*
+> 📹 **[Center Bed Heating Simulation Video](https://drive.google.com/file/d/1hvdnFKVsfraz4R3TLSu21DAScEUra7aI/view?usp=sharing)** 
+> 📹 **[Full Bed Heating Simulation Video](https://drive.google.com/file/d/17nfuhDi8q5KBFTc4tMstnj3G_T9JQ2PG/view?usp=sharing)** 
 
 ---
 
 ## 🔬 Prototype & Results
 
-![Prototype Heated Bed with Temperature Monitoring](Prototype_Heated_Bed_with_Temperature_Monitoring_System.png)
+![Prototype Heated Bed with Temperature Monitoring]()
 *Working prototype with Arduino-based temperature monitoring. Five thermistors measure temperature distribution across the bed.*
 
 ### Key Results
