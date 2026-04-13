@@ -1,0 +1,25 @@
+# Arduino
+*.elf
+*.hex
+*.map
+build/
+.pio/
+
+# ANSYS
+*.wbpj
+*.wbpz
+*.agdb
+*.mechdb
+dp0/
+SYS/
+*.log
+*.err
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Windows
+*.lnk
