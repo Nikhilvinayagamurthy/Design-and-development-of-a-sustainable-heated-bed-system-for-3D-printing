@@ -83,11 +83,11 @@ temperature -= 273.15; // Convert Kelvin to Celsius
 
 Thermal simulations were performed in **ANSYS Workbench** to analyse heat distribution and optimise heater placement before building the prototype.
 
-### Center Bed Heating — Small Part Printing
+### Center Bed Heating - Small Part Printing
 ![Center Bed Heating Simulation](center-bed-simulation.png)
 *Localized heating of the center region — energy-efficient for small parts*
 
-### Full Bed Heating — Large Part Printing
+### Full Bed Heating - Large Part Printing
 ![Full Bed Heating Simulation](full-bed-simulation.png)
 *All zones active — uniform heat distribution across the entire bed*
 
