@@ -107,11 +107,11 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 
 ### Key Results
 
-- ✅ Stable bed temperature of **~70°C** achieved
-- ✅ Heating time of approximately **8 minutes**
-- ✅ Compatible with **PETG** and **TPU** filament materials
-- ✅ Dual heating modes reduce unnecessary energy consumption
-- ✅ 5-sensor array confirms temperature uniformity across zones
+-  Stable bed temperature of **70°C** achieved
+-  Heating time of approximately **8 minutes**
+-  Compatible with **PETG** and **TPU** filament materials
+-  Dual heating modes reduce unnecessary energy consumption
+-  5-sensor array confirms temperature uniformity across zones
 
 ---
 
