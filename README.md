@@ -85,10 +85,12 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 
 ### Center Bed Heating - Small Part Printing
 ![Center Bed Heating Simulation](center-bed-simulation.png)
+
 *Localized heating of the center region-energy-efficient for small parts*
 
 ### Full Bed Heating - Large Part Printing
 ![Full Bed Heating Simulation](full-bed-simulation.png)
+
 *All zones active-uniform heat distribution across the entire bed*
 
 ### 🎬 Simulation Videos
@@ -103,6 +105,7 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 ## Prototype & Results
 
 ![Prototype Heated Bed with Temperature Monitoring](prototype-heated-bed.png)
+
 *Working prototype with Arduino-based temperature monitoring. Five thermistors measure temperature distribution across the bed.*
 
 ### Key Results
@@ -138,7 +141,7 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 ## Affiliation
 
 **Technische Universität Clausthal**
-Master Program — Intelligent Manufacturing
+Master Program - Intelligent Manufacturing
 Interdisciplinary Engineering Project | Nov 2024 - Mar 2025
 
 ---
