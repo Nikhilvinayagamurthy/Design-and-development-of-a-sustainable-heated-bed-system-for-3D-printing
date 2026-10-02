@@ -1,6 +1,6 @@
-# Energy-Efficient Heated Bed System for FDM 3D Printing
+# Sustainable Heated Bed System for FDM 3D Printing
 
-> **Interdisciplinary Engineering Project | TU Clausthal | WiSe 2024/2025**
+> **Interdisciplinary Engineering Project | TU Clausthal | Nov 2024 - Mar 2025**
 > Master Program: Intelligent Manufacturing
 > Team (Group B7): Nikhil Vinayagamurthy, Ashwanth Kumar C R, Dilip Jadhav N R, Hithesh Alen D Costa
 
@@ -18,7 +18,7 @@ The system achieved a **stable bed temperature of ~70°C** within approximately 
 
 - Improve **temperature uniformity** across the print bed
 - Reduce **energy consumption** by activating only the zones needed
-- Ensure **operational safety** with overheating protection
+- Monitor the bed temperature continuously with **five sensors**
 - Build a working **prototype** and validate with thermal simulation
 
 ---
@@ -45,10 +45,10 @@ The system achieved a **stable bed temperature of ~70°C** within approximately 
 
 ### Electronics
 
-- **Arduino** microcontroller for temperature monitoring and control
+- **Arduino** microcontroller for temperature monitoring
 - **MOSFET switching** for high-current zone control
 - Resistors, capacitors, push-button controls, and breadboard circuitry
-- Temperature readings logged every **5 seconds** via Serial monitor
+- Temperature readings logged every **3 seconds** via Serial monitor
 
 ### Circuit Schematic
 
@@ -111,17 +111,17 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 -  Heating time of approximately **8 minutes**
 -  Compatible with **PETG** and **TPU** filament materials
 -  Dual heating modes reduce unnecessary energy consumption
--  5-sensor array confirms temperature uniformity across zones
+-  5-sensor array monitors the temperature across the zones
 
 ---
 
 ## Key Functions Implemented
 
-1. **Temperature Uniformity** — Even heat distribution across the print surface
+1. **Temperature Uniformity** — Heater placement optimized in ANSYS for even heat distribution
 2. **Bed Temperature Maintenance** — Stable temperature control during printing
 3. **Heating Efficiency** — Zone-based activation reduces wasted energy
 4. **Heat Loss Reduction** — Insulation layer minimises thermal losses
-5. **Overheating Protection** — Safety cutoff via thermistor monitoring
+5. **Temperature Monitoring** — Five thermistors report the bed temperature every 3 seconds
 
 ---
 
@@ -139,7 +139,7 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 
 **Technische Universität Clausthal**
 Master Program — Intelligent Manufacturing
-Interdisciplinary Engineering Project | WiSe 2024/2025
+Interdisciplinary Engineering Project | Nov 2024 - Mar 2025
 
 ---
 
