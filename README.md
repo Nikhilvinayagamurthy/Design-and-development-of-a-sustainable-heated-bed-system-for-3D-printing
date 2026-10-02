@@ -40,7 +40,7 @@ The system achieved a **stable bed temperature of 70°C** within approximately *
 
 | Mode | Zones Active | Best For |
 |---|---|---|
-| **Center-bed heating** | Center zones only | Small parts — saves energy |
+| **Center-bed heating** | Center zones only | Small parts - saves energy |
 | **Full-bed heating** | All zones | Larger prints requiring full surface |
 
 ### Electronics
