@@ -10,7 +10,7 @@
 
 Designed and developed an **energy-efficient modular heated bed system** for FDM 3D printers as part of the Interdisciplinary Engineering Project at TU Clausthal. The project aimed to address recurring problems in university lab 3D printing environments including warping, poor bed adhesion, and high energy waste by designing a smarter, zone-controlled heating solution.
 
-The system achieved a **stable bed temperature of ~70°C** within approximately **8 minutes**, making it suitable for common FDM materials such as **PETG and TPU**.
+The system achieved a **stable bed temperature of 70°C** within approximately **8 minutes**, making it suitable for common FDM materials such as **PETG and TPU**.
 
 ---
 
@@ -95,7 +95,7 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 
 ### 🎬 Simulation Videos
 
-> 📹 **[ANSYS Full Workflow — Component Build to Simulation](https://drive.google.com/file/d/1stiAddSQaEt7PTqDaMmkmdEeGVIb2Y99/view?usp=sharing)**
+> 📹 **[ANSYS Full Workflow - Component Build to Simulation](https://drive.google.com/file/d/1stiAddSQaEt7PTqDaMmkmdEeGVIb2Y99/view?usp=sharing)**
 
 > 📹 **[Center Bed Heating Simulation](https://drive.google.com/file/d/1hvdnFKVsfraz4R3TLSu21DAScEUra7aI/view?usp=sharing)**
 
@@ -120,11 +120,11 @@ Thermal simulations were performed in **ANSYS Workbench** to analyse heat distri
 
 ## Key Functions Implemented
 
-1. **Temperature Uniformity** — Heater placement optimized in ANSYS for even heat distribution
-2. **Bed Temperature Maintenance** — Stable temperature control during printing
-3. **Heating Efficiency** — Zone-based activation reduces wasted energy
-4. **Heat Loss Reduction** — Insulation layer minimises thermal losses
-5. **Temperature Monitoring** — Five thermistors report the bed temperature every 3 seconds
+1. **Temperature Uniformity** - Heater placement optimized in ANSYS for even heat distribution
+2. **Bed Temperature Maintenance** - Stable temperature control during printing
+3. **Heating Efficiency** - Zone-based activation reduces wasted energy
+4. **Heat Loss Reduction** - Insulation layer minimises thermal losses
+5. **Temperature Monitoring** - Five thermistors report the bed temperature every 3 seconds
 
 ---
 
